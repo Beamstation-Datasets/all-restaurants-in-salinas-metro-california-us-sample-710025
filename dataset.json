@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete restaurant census for the Salinas (Metro), California metro, covering Salinas. Covers a growing metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Salinas (Metro), California, US",
+  "export_job_id": "53ccf35c-8ec1-4189-ac47-68e418ec0232",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 710025,
+  "location_name": "Salinas, CA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-salinas-metro-california-us-sample-710025",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/710025/beamstation_710025_restaurants-us-salinasca_SAMPLE_DIST.csv",
+  "sample_pct": 10.82,
+  "sample_records": 45,
+  "sample_sha256": "71eb7535ea58827a9d153c69df0e170cd41a5654ddb4322d19b6785cd317c5d7",
+  "sample_size_bytes": 186534,
+  "total_records": 416,
+  "updated_at": "2026-03-31T16:23:53.574941+00:00"
+}
