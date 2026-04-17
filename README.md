@@ -9,9 +9,9 @@
 | Dataset ID | `710025` |
 | Location | Salinas, CA |
 | Category | Restaurants |
-| Full dataset size | 416 records |
-| Free sample size | 45 records (10.82%) |
-| Last export | 2026-03-31T16:23:53.574941+00:00 |
+| Full dataset size | 452 records |
+| Free sample size | 45 records (9.96%) |
+| Last export | 2026-04-14T17:13:08.386113+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salinas-metro-california-us-sample-710025/releases/download/sample-latest/beamstation_710025_restaurants-us-salinasca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
