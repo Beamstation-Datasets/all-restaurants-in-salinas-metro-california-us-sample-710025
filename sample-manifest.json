@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b8a0a827-e556-4e4a-9516-e024c83308f0",
+  "export_job_id": "e7daf3c5-e159-4fae-88b0-9c21b2281fd4",
   "id_short": 710025,
-  "published_at": "2026-04-17T07:48:03Z",
+  "published_at": "2026-04-21T19:44:20Z",
   "repo_name": "all-restaurants-in-salinas-metro-california-us-sample-710025",
   "sample_asset_name": "beamstation_710025_restaurants-us-salinasca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/710025/beamstation_710025_restaurants-us-salinasca_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "71eb7535ea58827a9d153c69df0e170cd41a5654ddb4322d19b6785cd317c5d7",
-  "sample_size_bytes": 186534,
-  "total_records": 452
+  "sample_records": 29,
+  "sample_sha256": "48739f67e636387b03b078b39e5bfc8ac7ba9c05e45a023d1e67eb8e84139411",
+  "sample_size_bytes": 126954,
+  "total_records": 291
 }
