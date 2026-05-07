@@ -1,6 +1,6 @@
 # All Restaurants in Salinas (Metro), California, US
 
-> Free BeamStation sample export with 46 rows and masked direct-contact fields.
+> Free BeamStation sample export with 48 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `710025` |
 | Location | Salinas, CA |
 | Category | Restaurants |
-| Full dataset size | 468 records |
-| Free sample size | 46 records (9.83%) |
-| Last export | 2026-04-28T20:11:32.236823+00:00 |
+| Full dataset size | 486 records |
+| Free sample size | 48 records (9.88%) |
+| Last export | 2026-05-07T10:52:37.133196+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salinas-metro-california-us-sample-710025/releases/download/sample-latest/beamstation_710025_restaurants-us-salinasca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
